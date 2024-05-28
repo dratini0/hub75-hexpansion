@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tildagon")(type "KiCad")(uri "${KIPRJMOD}/tildagon.kicad_sym")(options "")(descr ""))
+  (lib (name "HUB75")(type "KiCad")(uri "${KIPRJMOD}/HUB75.kicad_sym")(options "")(descr ""))
+)
